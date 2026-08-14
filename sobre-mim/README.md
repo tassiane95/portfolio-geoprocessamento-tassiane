@@ -1,6 +1,7 @@
 Sobre Mim
 
-Sou Engenheira Agrônoma com especialização em Solos, Nutrição e Plantas. Tenho paixão por transformar dados espaciais em soluções reais para o campo,
-com foco em geoprocessamento e agricultura de precisão.
+Minha experiência reúne interpretação de ortofotos, vetorização, organização de bases geográficas, análise espacial e produção cartográfica. 
 
-Minha experiência envolve mapeamento do uso da terra, análise espacial e interpretação de dados geográficos com ferramentas como o ArcGIS Pro.
+Também possuo experiência acadêmica em solos, conservação ambiental e manejo sustentável, o que contribui para minha compreensão dos dados territoriais e ambientais.
+
+Meu objetivo profissional é atuar como Analista de Geoprocessamento Júnior, integrando minha formação agronômica à análise e representação de informações geoespaciais
