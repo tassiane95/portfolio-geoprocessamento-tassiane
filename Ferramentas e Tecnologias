@@ -1,18 +1,29 @@
  Ferramentas e Tecnologias
 
-- ArcGIS Pro (Clip, Buffer, KML to Layer, Symbology, Create Features etc.)
-- SIG aplicado ao agro e meio ambiente
--  Mapeamento de áreas produtivas, análise de solos e nutrição vegetal com apoio de geotecnologias.
-- Microsoft Office (Excel, Word e Power Point)
-- Elaboração de relatórios técnicos e mapas temáticos
-- QGIS
 
+QGIS
 
-Cartografia temática
-Análise espacial
 Vetorização
-Dados raster e vetoriais
+Edição de geometrias
+Correção topológica
+Processamento raster
+Análise espacial
+Layouts
+
+ArcGIS Pro
+
+Clip
+Buffer
+KML to Layer
+Symbology
+Create Features
+Análise espacial
+Project
+
+Dados e cartografia
+
+Raster e vetorial
 MDE/SRTM
-Controle topológico
 SRC/EPSG
-Layouts cartográficos
+Cartografia temática
+Organização de bases geográficas
